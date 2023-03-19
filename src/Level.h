@@ -1,0 +1,14 @@
+
+#ifndef PLATFORMERSFML_LEVEL_H
+#define PLATFORMERSFML_LEVEL_H
+
+enum class Level
+{
+  LEVEL_1,
+  LEVEL_2,
+  LEVEL_3,
+  LEVEL_4,
+  LEVEL_CUSTOM
+};
+
+#endif // PLATFORMERSFML_LEVEL_H
